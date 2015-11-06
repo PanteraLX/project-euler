@@ -6,7 +6,6 @@
  * https://projecteuler.net/problem=1
  */
 
-
 int main(void)
 {
     int solution = run();

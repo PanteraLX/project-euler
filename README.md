@@ -1,2 +1,2 @@
 # project-euler
-Solutions to Project Euler problems written in C.
+Solutions to Project Euler problems written in Python.
